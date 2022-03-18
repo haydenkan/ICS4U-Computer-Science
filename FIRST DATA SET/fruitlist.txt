@@ -1,0 +1,3 @@
+Apple,   peach,  pear,banana
+Lemon,  cherry
+Pineapple, watermelon,   lime
